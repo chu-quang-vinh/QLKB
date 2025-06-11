@@ -1,21 +1,53 @@
-Hệ Thống Quản Lý Khám Bệnh
+Hệ Thống Quản Lý Khám Bệnh 
+
+
 Đây là một hệ thống quản lý khám bệnh được viết bằng ngôn ngữ C, sử dụng cấu trúc dữ liệu Queue để quản lý hàng đợi bệnh nhân.
 
 Tính Năng Chính
+
+
 🏥 Quản Lý Bệnh Nhân
+
+
 Thêm bệnh nhân mới: Tự động tạo mã bệnh nhân duy nhất (BN001-BN999)
+
+
 Lưu trữ thông tin đầy đủ: Họ tên, giới tính, ngày sinh, CCCD, địa chỉ, SDT
+
+
 Phân loại mức độ ưu tiên: Cấp cứu, Thông thường, Tái khám
+
+
 📋 Hàng Đợi Khám Bệnh
+
+
 Ba trạng thái bệnh nhân:
+
+
 Chờ khám
+
+
 Đang khám
+
+
 Hoàn thành
+
+
 Sắp xếp theo độ ưu tiên: Cấp cứu được ưu tiên, sau đó theo thời gian đến
+
+
 🔍 Tìm Kiếm & Tra Cứu
+
+
 Tìm kiếm theo mã bệnh nhân
+
+
 Tìm kiếm theo tên bệnh nhân (hỗ trợ tìm kiếm từng phần)
+
+
 📊 Sắp Xếp Dữ Liệu
+
+
 Selection Sort: Thuật toán sắp xếp chọn
 Insertion Sort: Thuật toán sắp xếp chèn
 💾 Lưu Trữ File
