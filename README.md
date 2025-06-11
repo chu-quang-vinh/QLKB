@@ -48,7 +48,7 @@ Tìm kiếm theo tên bệnh nhân (hỗ trợ tìm kiếm từng phần)
 📊 Sắp Xếp Dữ Liệu
 
 
-Selection Sort: Thuật toán sắp xếp chọn//
+Selection Sort: Thuật toán sắp xếp chọn\\
 Insertion Sort: Thuật toán sắp xếp chèn
 💾 Lưu Trữ File
 Tự động lưu/đọc dữ liệu từ các file:
